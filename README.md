@@ -1,9 +1,11 @@
 # LinuxMP3Downloader
 
 ## Language and Technology Used for the Script?
-  Python
-  Youtube-dl
-  FFMPEG Convertor
+  <ul>
+    <li>Python</li>
+    <li>Youtube-dl</li>
+    <li>FFMPEG Convertor </li>
+  </ul>
   
 ## What Linux MP3 Downloader can be used for?
   Can download Songs and videos from youtube and convert them into MP3 format to save them in the same directory.
